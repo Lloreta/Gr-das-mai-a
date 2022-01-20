@@ -1,3 +1,4 @@
+#komantārs
 import math
 
 def gridas_izmaksa(cena, linoleja_platums, telpas_platums, telpas_garums):
